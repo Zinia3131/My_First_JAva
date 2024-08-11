@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce797524-80ba-4b33-bbe6-424ed59fc6ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloPrithibi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloZini.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ce797524-80ba-4b33-bbe6-424ed59fc6ce" name="Changes" comment="First Commit,basic sceleton of helloworld project">
+      <change afterPath="$PROJECT_DIR$/src/CashRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_6_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_Six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_Six_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloZini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloZini.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +28,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kMxNy9S8JES7txrkome0RFao50" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,11 +48,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CashRegister.executor": "Run",
+    "Application.Class_6_three.executor": "Run",
+    "Application.Class_Six.executor": "Run",
+    "Application.Class_Six_two.executor": "Run",
+    "Application.CounterRunner.executor": "Run",
     "Application.HelloZini.executor": "Run",
+    "Application.UserInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "C3",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/HelloWorld/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/HelloWorld/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +71,21 @@
       <option name="presentableId" value="Default" />
       <updated>1723107213483</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit,basic sceleton of helloworld project">
+      <option name="closed" value="true" />
+      <created>1723108103804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723108103804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="First Commit,basic sceleton of helloworld project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit,basic sceleton of helloworld project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
