@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce797524-80ba-4b33-bbe6-424ed59fc6ce" name="Changes" comment="First Commit,basic sceleton of helloworld project">
-      <change afterPath="$PROJECT_DIR$/src/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_6_three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_Six_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CounterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloZini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloZini.java" afterDir="false" />
-    </list>
+    <list default="true" id="ce797524-80ba-4b33-bbe6-424ed59fc6ce" name="Changes" comment="First Commit,basic sceleton of helloworld project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723108103804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit,basic sceleton of helloworld project">
+      <option name="closed" value="true" />
+      <created>1723394149943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723394149943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
